@@ -14,7 +14,6 @@ To understand the role of VPNs in privacy, encryption, and secure communication 
 
 ## Deliverables
 - **Screenshots** (before/after IP + VPN connected)
-- **Report** (`vpn_summary.md`) explaining VPN benefits and limitations
 
 ## Tools Used
 - ProtonVPN Free
